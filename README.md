@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @MuriloHM
-- 👀 I’m interested in System development;
-- 🌱 I’m currently learning Java
+Hi there, I'm MuriloHM! 👋
 
-<!---
-MuriloHM/MuriloHM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!
+
+About Me
+
+- 🌟 I'm a passionate developer with a keen interest in System Development.
+- 🌱 Currently diving deep into the world of Java to enhance my programming skills.
+- 💡 Always eager to learn new technologies and improve my craft.
+
+Interests
+
+- 👀 Exploring various aspects of software development.
+- 🤖 Interested in machine learning and artificial intelligence.
+- 🌐 Enthusiast of web development and building scalable applications.
+
+Skills
+
+- 💻 **Languages**: Java, Python, JavaScript
+- 🌐 **Web Technologies**: HTML, CSS, React
+- 🛠️ **Tools & Frameworks**: Git, Spring Boot, Node.js
