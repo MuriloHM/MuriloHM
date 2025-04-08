@@ -17,5 +17,5 @@ Interests
 Skills
 
 - 💻 **Languages**: Java, Python, JavaScript
-- 🌐 **Web Technologies**: HTML, CSS, React
-- 🛠️ **Tools & Frameworks**: Git, Spring Boot, Node.js
+- 🌐 **Web Technologies**: HTML, CSS
+- 🛠️ **Tools & Frameworks**: Git, SVN
